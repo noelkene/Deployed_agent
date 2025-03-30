@@ -18,7 +18,7 @@ python3 -m pip install --upgrade -r requirements.txt
 Point your application default env variable to the credential file:
 
 ```
-export GOOGLE_APPLICATION_CREDENTIALS=platinum-banner-303105-7d0d2ba2a783.json
+export GOOGLE_APPLICATION_CREDENTIALS=creds.json
 ```
 
 
