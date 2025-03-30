@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "platinum-banner-303105",
+  "private_key_id": "7d0d2ba2a783f48ef2af4bf4289d9ff3909cb64b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC+qX2iJ8jBKjKJ\ncDQYQR6lc65JhhotM7yFc8CqiFqOaGKXmPorJzeOnDqtW9gtI3u52CdrxsUlnGW9\nvr1v2o3abmEJIa8XC/t35h5Bugb3ldXGhRc1dl8kYdjRj1iP3zZsyhw1MK6z/rdW\nioLTrtZSQR5cFePkOjDHyYH0rGxMuDQBaFDX9HhC9Cl0KjkkddQjlnX6+Ij7rX/T\nvVqpSG0nHhyKWjEtEl4FmbGmQH4fGUfjDnKEC+o8hRct4PV7C45EX3ufQxsE9/rw\nL248Ofz5UbDHWBVcXx59t95+ePBOYEjE8s/cXpwJCziYmo2BM/GAEeedrcXOjbIM\nI50zDXzdAgMBAAECggEADNZDj7HnCd5p9af40fM8eX5O60NcqtNza3bOL40rr6/m\nh3d0zIgA7RimuLpY1T0w3OPpT4/cATrE/OAFSC0qZN0Oqns6my4i2cFEIz+/rVbI\nxGt8kwxrvnraCs4Ac/te4jc/a/Nhp9vMA0cjJNZ+Np6MyT1uERU76I+wMMWVKxsT\n8iRTOo1qfK4R3aSP9MuigqMdMsnOnHR+X+n6X5LnX/GiElBu25PJY9+55B6sYH5Q\nc2SFCj8k9mXuv/oBS9WlZE2NkW6LJpdG0Upp7X8WqAWWT1KhFcFcFsz6VXEIfFiL\nESlRzqxPfutBqBA+4jX9OeEvRaCYCVe4TJ9AlUUZ3wKBgQD27B6cEiy6mHOsQnOd\nnwch3cc+Eq0hEEytKzEHBv3medd+bPknkCOzwwAKltevzA+YUw35f5gCoq0eXRLD\np/xPEyENDoQPWm+pTNeJndwzc/3q18EmhsM96LiM5XyhuBG9oPFO59gEnRWRj2th\nLIeW0BDDZg1Z+5JRZAO1qAD8awKBgQDFq+JiqBidQgn8llGm9XU8DBq1Qj/lOJBR\n1kYq37553Ssd3woePMosnXK1Mj6vkNCZrZecZG5hhW2AjTrYOfws1TtsKJlqsK+/\nK5U0T2d/BUUEgzA4HdfgOYAqrEFDr9yS/XXM9TcRxCjn96PKV7KQ0zJrCbbG+Pfb\n+yTaXzw91wKBgQCm2Bc6yAEXOEn43JH4sGsGVC/73mzDiZr169hd8jh/klas439b\nX0bwgVO21AP7knv7JiusKa4SIc+uU5+JOyn+WGOdyfAr26TVlcmSAGu5DKhHFfA6\nUxb77xM8iRg0wgaixmwnL/tD6syXJXyeFZOssPySu5NL+PP+MQFcrp+z7wKBgQCS\nJJtSP187XOjPQz+JBa6wP267lghxaxlgN+BWsGc95+OJyS3M3zrGM33sMwKfgJyJ\nEgumR6ZIGYK06TWZSX2Ek/3D4FxUwd6doxZDv3UQNxAo3ukWhBHnp/t3ETWLWojk\nb9nZN26IhxOLNM52udG+OzbqZhspDkcJ76r2fDSorwKBgQDJ+WI/QnpXZ9doa9gi\nhmFdztnIohoqCMIUj19nXIi4DOoaIE4+b+KmxoggHNgpvEabSrT2EI03LohRIcDg\nGLJ6j8joi1uB7LWdrhGY4QpYNM7qhiuz7xgUGv1iVi9T3zeXJWDR1wmH1Mn4aMYM\nMoudnNYJJ/CaoJzI/QiEc/nJQA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "query-agent-engine@platinum-banner-303105.iam.gserviceaccount.com",
+  "client_id": "106013336896935924991",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/query-agent-engine%40platinum-banner-303105.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
