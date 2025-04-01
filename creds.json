@@ -1,11 +1,13 @@
-type	"service_account"
-project_id	"platinum-banner-303105"
-private_key_id	"<INSERT KEY ID>"
-private_key	"-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjNBbdmBqfP66C\nADJw1WagFVeSMFIRijxcw14Q3mQS1Q+3nZFaQ66dLK8Ts0tjGsEYDIjud5jHHdNL\nimBdQsAdlz4i26KPZol7cNKBGASTA1Wl1J0Ez9Bke2O+nZc4p2/cIFgRyk196xXk\ndulQwZCankj1tjOzXYNbsY0efJSLWPM4MvWpaJbKXdDUKzLTO7BuzWJ4a+jXI1G3\noA1GRtbgqdvtlXAk3psYzkXGOJqQLAc+vp35F27qrrSNA+mFDV0K6PBvQ7zxo93f\nESD6SrstREErcqG6CJR9u8A0PLG09IoR5w00fQ5UjWSi/xZwPY85VhIrE9cI54Uk\nCe/Wp5YrAgMBAAECggEABfKtjKjw+3HSNdm0/OjCIz5z4ReSviHoHkdeg8XfJtKO\nDpaXCA+kawUIYnLr4fJFLE+0o+BG+KbNHxktduiqYMm00YdorspBY3bSrTLHY+ZA\ntlj/2f+K7EaU9Yr/ymhLyt2A6DETzu2E8D0nNrK/RutS5GWeD8DuOybG6mAG9+cY\nlAyXj06Vx9UMwTWCKZT9i20CmlB+zib9IzpfF3qm67Ce9EW+zfIBRnSIM245lS83\nesPPRoun2b4GD281/lQSqpUXb2hdutEHe/rGms+n/F7uuo4GqcardFeX1aDPPmMN\nwDUzKqj4SFLKlyTOR4X5Fni3qSj1GBlsGhSL+WbOEQKBgQDaBooiHHlyIzvhW34+\nu/gLp9pmyozFSjgooaAynncga3oU5wJgmS2yf6B+qbHj+xHY7lKoVkfiaCcg90Xc\nLHj6VBiEcCZHnetEvUNhdrQn5nlmKgAGNeO6WQwrxP9mxBOUwg4yxYOTtLVjtAxc\n1LIdliXSA96YP9b9T7N+Yerw0QKBgQC/oRvRr4mwDLQ6JfU07NuqTk/aCxuhGKZt\nSG1AOYzlht3uDPvf7+zMd8Jdz5QptCcGZDgUdz/U0FseLGijIE2KPzoZhXyeoBzi\n+nDQVP2LLnijOD46AN22nJ2N+uE9F/e4IzY4f8mFoe0FLIjJHQuDKtiQH2y8xQsm\nZv916NY2OwKBgBI/S95Q/cUUt9VDoAxGFRt8n+XMe/2jGZIk/NBfvN6kwCHxt5w4\nFcADuH4BW9cV00eRoq9eEUQcrXGv4FPuEO36jda/wCRsTh2BrZsBoVBZlL19NGVQ\nq0+UVlVvdmS2cmEX4LJVH48EJ85Bamt2jbW2NFIgasfZR/gJbJ9eOJiRAoGAUv3U\nTYDHkc4+s7xCsRQvoldeL+GFqsRBN60ZW6pRAgrhzLokz3xaQsdPD0/aLCGQkS0Q\nOJTYuTMvcybqflN8IXZ2lB0CtrRDLm4mM6PLVt7eclnmYTqEyxSTC61upQXfTAk7\n70YwocZaH1aFOwxwMvN4bRqe/jYcORp8YrVfKIcCgYAWAUbqjplO5YJJWwOvnskT\nPjiWdGlfHY3dpUkv/WrFde96GT0F99lYQZXbNB71AXdZzySCG+M4s767aQMos4jX\nfn2KKsGJurDX9k2MNyPYbJCn+p1zL4VR1j/Vz26orjilfG+zSWI2BZRcSswM1Sqf\nMCmkuTYP0+atbp67WIC49g==\n-----END PRIVATE KEY-----\n"
-client_email	"query-agent-engine@platinum-banner-303105.iam.gserviceaccount.com"
-client_id	"106013336896935924991"
-auth_uri	"https://accounts.google.com/o/oauth2/auth"
-token_uri	"https://oauth2.googleapis.com/token"
-auth_provider_x509_cert_url	"https://www.googleapis.com/oauth2/v1/certs"
-client_x509_cert_url	"https://www.googleapis.com/robot/v1/metadata/x509/query-agent-engine%40platinum-banner-303105.iam.gserviceaccount.com"
-universe_domain	"googleapis.com"
+{
+  "type": "service_account",
+  "project_id": "platinum-banner-303105",
+  "private_key_id": "<INSERT KEY ID>",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjNBbdmBqfP66C\nADJw1WagFVeSMFIRijxcw14Q3mQS1Q+3nZFaQ66dLK8Ts0tjGsEYDIjud5jHHdNL\nimBdQsAdlz4i26KPZol7cNKBGASTA1Wl1J0Ez9Bke2O+nZc4p2/cIFgRyk196xXk\ndulQwZCankj1tjOzXYNbsY0efJSLWPM4MvWpaJbKXdDUKzLTO7BuzWJ4a+jXI1G3\noA1GRtbgqdvtlXAk3psYzkXGOJqQLAc+vp35F27qrrSNA+mFDV0K6PBvQ7zxo93f\nESD6SrstREErcqG6CJR9u8A0PLG09IoR5w00fQ5UjWSi/xZwPY85VhIrE9cI54Uk\nCe/Wp5YrAgMBAAECggEABfKtjKjw+3HSNdm0/OjCIz5z4ReSviHoHkdeg8XfJtKO\nDpaXCA+kawUIYnLr4fJFLE+0o+BG+KbNHxktduiqYMm00YdorspBY3bSrTLHY+ZA\ntlj/2f+K7EaU9Yr/ymhLyt2A6DETzu2E8D0nNrK/RutS5GWeD8DuOybG6mAG9+cY\nlAyXj06Vx9UMwTWCKZT9i20CmlB+zib9IzpfF3qm67Ce9EW+zfIBRnSIM245lS83\nesPPRoun2b4GD281/lQSqpUXb2hdutEHe/rGms+n/F7uuo4GqcardFeX1aDPPmMN\nwDUzKqj4SFLKlyTOR4X5Fni3qSj1GBlsGhSL+WbOEQKBgQDaBooiHHlyIzvhW34+\nu/gLp9pmyozFSjgooaAynncga3oU5wJgmS2yf6B+qbHj+xHY7lKoVkfiaCcg90Xc\nLHj6VBiEcCZHnetEvUNhdrQn5nlmKgAGNeO6WQwrxP9mxBOUwg4yxYOTtLVjtAxc\n1LIdliXSA96YP9b9T7N+Yerw0QKBgQC/oRvRr4mwDLQ6JfU07NuqTk/aCxuhGKZt\nSG1AOYzlht3uDPvf7+zMd8Jdz5QptCcGZDgUdz/U0FseLGijIE2KPzoZhXyeoBzi\n+nDQVP2LLnijOD46AN22nJ2N+uE9F/e4IzY4f8mFoe0FLIjJHQuDKtiQH2y8xQsm\nZv916NY2OwKBgBI/S95Q/cUUt9VDoAxGFRt8n+XMe/2jGZIk/NBfvN6kwCHxt5w4\nFcADuH4BW9cV00eRoq9eEUQcrXGv4FPuEO36jda/wCRsTh2BrZsBoVBZlL19NGVQ\nq0+UVlVvdmS2cmEX4LJVH48EJ85Bamt2jbW2NFIgasfZR/gJbJ9eOJiRAoGAUv3U\nTYDHkc4+s7xCsRQvoldeL+GFqsRBN60ZW6pRAgrhzLokz3xaQsdPD0/aLCGQkS0Q\nOJTYuTMvcybqflN8IXZ2lB0CtrRDLm4mM6PLVt7eclnmYTqEyxSTC61upQXfTAk7\n70YwocZaH1aFOwxwMvN4bRqe/jYcORp8YrVfKIcCgYAWAUbqjplO5YJJWwOvnskT\nPjiWdGlfHY3dpUkv/WrFde96GT0F99lYQZXbNB71AXdZzySCG+M4s767aQMos4jX\nfn2KKsGJurDX9k2MNyPYbJCn+p1zL4VR1j/Vz26orjilfG+zSWI2BZRcSswM1Sqf\nMCmkuTYP0+atbp67WIC49g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "query-agent-engine@platinum-banner-303105.iam.gserviceaccount.com",
+  "client_id": "106013336896935924991",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/query-agent-engine%40platinum-banner-303105.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
