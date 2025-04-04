@@ -23,11 +23,11 @@ ORDER_DB = {
 
 # --- User to Order Mapping ---
 USER_TO_ORDER_DB = {
-    "user_a": ["1", "4", "7"], # Alice got another finished order
-    "user_b": ["2", "9"],      # Bob got a new pending order
-    "user_c": ["3", "6", "11"],# Carol got two more pending orders
-    "user_d": ["5", "10"],     # New user Dave has two finished orders
-    "user_e": ["8"],           # New user Eve has one canceled order
+    "user_001": ["1", "4", "7"], # Alice got another finished order
+    "user_002": ["2", "9"],      # Bob got a new pending order
+    "user_003": ["3", "6", "11"],# Carol got two more pending orders
+    "user_004": ["5", "10"],     # New user Dave has two finished orders
+    "user_005": ["8"],           # New user Eve has one canceled order
 }  # User id to Order id mapping
 
 # --- Support Tickets ---
@@ -74,11 +74,11 @@ TICKET_DB = [
 # --- User Information ---
 USER_INFO_DB = {
     # Existing
-    "user_a": {"name": "Alice", "email": "alice@example.com"},
-    "user_b": {"name": "Bob", "email": "bob@example.com"},
-    "user_c": {"name": "Carol", "email": "carol@sample.org"},
-    "user_d": {"name": "Dave", "email": "dave@mail.net"},
-    "user_e": {"name": "Eve", "email": "eve@domain.co"},
+    "user_001": {"name": "Alice", "email": "alice@example.com"},
+    "user_002": {"name": "Bob", "email": "bob@example.com"},
+    "user_003": {"name": "Carol", "email": "carol@sample.org"},
+    "user_004": {"name": "Dave", "email": "dave@mail.net"},
+    "user_005": {"name": "Eve", "email": "eve@domain.co"},
 }
 
 def reset_data():
